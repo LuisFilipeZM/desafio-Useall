@@ -1,0 +1,22 @@
+Respostas das questões 1 a 6
+
+1. 10*4 - 8 + 24/8
+   (10*4) - 8 + (24/8)
+   40 - 8 + 3 = 35
+
+2. O operador == serve para comparar duas variáveis independente do tipo do dado da mesma,
+   já o === compara duas variáveis considerando também o tipo dela.
+
+3. b) Loop infinito
+
+4. novoNumero = 9
+   a = 3
+
+5. console.info(a === b); -> false
+   console.info(a.nome === b.nome); -> true
+   console.dir(a); -> nome: 'Maria'
+   console.dir(b); -> nome: 'Pedro'
+   console.info(a.nome === b.nome); -> false
+
+6. x = 0.5
+   y = 0
